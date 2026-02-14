@@ -8,7 +8,7 @@ Bienvenue sur la plateforme de distribution officielle. Vous trouverez ici les d
 **Version actuelle :** v2.1
 **Description :** Logiciel de facturation et gestion de clients pour l'Algérie.
 
-👉 [**Télécharger BesmaPro AE v2.1 (APK)**](LIEN_DIRECT_DE_VOTRE_RELEASE_PUBLIQUE)
+👉 [**Télécharger BesmaPro AE v2.1 (APK)**](https://github.com/BesmaInfoEnergy/Besma-Apps-Dist/releases/download/BesmaProAEv2.1/BesmaProAE.v2.1.apk).
 
 ---
 
